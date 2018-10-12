@@ -1,0 +1,9 @@
+com\jettech\eurekaclient\service\IProductInfoService.class
+com\jettech\eurekaclient\vo\ResultVO.class
+com\jettech\eurekaclient\service\impl\ProductInfoImpl.class
+com\jettech\eurekaclient\controller\DemoController.class
+com\jettech\eurekaclient\reposity\ProductInfoReposity.class
+com\jettech\eurekaclient\vo\ProductInfo.class
+com\jettech\eurekaclient\util\ResultDoUtils.class
+com\jettech\eurekaclient\EurekclientApplication.class
+com\jettech\eurekaclient\config\RestTemplateConfig.class
